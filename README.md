@@ -54,7 +54,6 @@ learning to many products at Baidu.
 See [Installation Guide](http://paddlepaddle.org/doc/build/) to install from pre-built package or build from the source code. (Note: The installation packages are still in pre-release state and your experience of installation may not be smooth.).
 
 ## Documentation
-- [Chinese Documentation](http://paddlepaddle.org/doc_cn/) <br>
 
 - [Quick Start](http://paddlepaddle.org/doc/demo/quick_start/index_en) <br>
    You can follow the quick start tutorial to learn how use PaddlePaddle
@@ -79,6 +78,10 @@ See [Installation Guide](http://paddlepaddle.org/doc/build/) to install from pre
    contribute, please read the contribution guide.   
 
 - [Source Code Documents](http://paddlepaddle.org/doc/source/) <br>
+
+- [Documentation in Chinese](http://paddlepaddle.org/doc_cn/) <br>
+
+- [Documentation in Russian](http://paddlepaddle.org/doc_ru/) <br>
 
 ## Ask Questions
 
